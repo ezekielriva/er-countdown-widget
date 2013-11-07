@@ -10,7 +10,7 @@ Add widget on a widget sidebar
 
 Special Thanks
 -----------
-I need give thank to James Bruse that provide me a countdown initial code and mockup.
+I need give thank to Martin Angelov that provide me a countdown initial code and mockup.
 
 TODO
 -----------
